@@ -5,7 +5,7 @@ export default function AboutPage() {
   return (
     <main>
       <h1>About This Site</h1>
-      <Link to='/'>Back to home</Link>
+      <Link to='/'>Back to home right now again now</Link>
     </main>
   )
 }
